@@ -1,0 +1,13 @@
+.or {
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+font-size: 25px;
+text-align: center;
+background-color: pink;
+}
+
+.pizza-link , .ck-link , .cookie-link {
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+}
+

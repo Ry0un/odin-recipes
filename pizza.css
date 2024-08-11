@@ -1,0 +1,35 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgrey;
+}
+
+.pizza-img {
+height: 300px;
+width: auto;
+flex: auto;
+float: left;
+margin-right: 30px;
+}
+.Des{
+padding-left: 30%;
+display: flex;
+overflow: hidden;
+}
+.yap{
+font-size: 20px;
+
+
+
+
+
+}
+.ing{
+padding-top: 70px;
+
+
+
+}
+
+
+
+
